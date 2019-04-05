@@ -1,8 +1,6 @@
 package com.scala.hello.syncronized
 
-import com.scala.hello.syncronized.Atom
-
-object HelloWorld {
+object MainSync {
 
   def main(args: Array[String]): Unit = {
     val monitor = ""
